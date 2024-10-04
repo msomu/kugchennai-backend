@@ -1,0 +1,5 @@
+graphql:
+  packages:
+    - "com.msomu.kugchennai"
+  playground:
+    enabled : true

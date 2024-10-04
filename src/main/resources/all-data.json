@@ -1,0 +1,735 @@
+{
+  "memories": [
+    {
+      "title": "The full family!!!",
+      "image": "https://static.gdgchennai.in/memories/m01.webp"
+    },
+    {
+      "title": "Silence before the storm, welcomes you all",
+      "image": "https://static.gdgchennai.in/memories/m02.webp"
+    },
+    {
+      "title": "Amazing response on registrations",
+      "image": "https://static.gdgchennai.in/memories/m03.webp"
+    },
+    {
+      "title": "Guess what was he asking?",
+      "image": "https://static.gdgchennai.in/memories/m04.webp"
+    },
+    {
+      "title": "Long queues are the spoilers",
+      "image": "https://static.gdgchennai.in/memories/m05.webp"
+    },
+    {
+      "title": "So that's a focus group?",
+      "image": "https://static.gdgchennai.in/memories/m06.webp"
+    },
+    {
+      "title": "enna da panreenga?",
+      "image": "https://static.gdgchennai.in/memories/m07.webp"
+    },
+    {
+      "title": "Devfest platform can turn into a Ted Talk too",
+      "image": "https://static.gdgchennai.in/memories/m08.webp"
+    },
+    {
+      "title": "All buckled in for the ride!",
+      "image": "https://static.gdgchennai.in/memories/m09.webp"
+    },
+    {
+      "title": "Insta-booths ;)",
+      "image": "https://static.gdgchennai.in/memories/m10.webp"
+    }
+  ],
+  "announcements": [
+    "All tickets SOLD OUT",
+    "Final Agenda is Live",
+    "Let's make Chennai greener with BYOB Campaign",
+    "Connect with us over Discord or Instagram",
+    "Devfest24 Chennai awaits you all"
+  ],
+  "communityPartners": [
+    {
+      "image": "https://static.gdgchennai.in/partners/cp01.webp",
+      "link": "https://respark.iitm.ac.in",
+      "title": "IIT-M Research Park"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp02.webp",
+      "link": "https://konfhub.com",
+      "title": "KonfHub"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp03.webp",
+      "link": "https://10x.respark.iitm.ac.in/rancho/",
+      "title": "YTL / IITMRespark"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp04.webp",
+      "link": "https://gdg.community.dev/gdg-cloud-chennai/",
+      "title": "GDG Cloud Chennai"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp05.webp",
+      "link": "https://x.com/wtmchennai",
+      "title": "WTM Chennai"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp06.webp",
+      "link": "https://www.meetup.com/aichennai/",
+      "title": "AI Practitioners Chennai"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp07.webp",
+      "link": "https://linktr.ee/kugchennai",
+      "title": "KUG Chennai"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp08.webp",
+      "link": "https://community.cncf.io/chennai/",
+      "title": "Cloud Native Chennai"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp09.webp",
+      "link": "https://www.meetup.com/chennai-reactjs-meetup-group/",
+      "title": "Chennai React"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp10.webp",
+      "link": "https://www.meetup.com/nammaflutter/",
+      "title": "Flutter Chennai"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp11.webp",
+      "link": "https://codevipassana.dev",
+      "title": "Code Vipassana"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp12.webp",
+      "link": "https://techxconf.com/",
+      "title": "TechXConf"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp13.webp",
+      "link": "https://makerstribe.in/",
+      "title": "MakersTribe"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp14.webp",
+      "link": "https://www.meetup.com/innovationai-chennai/",
+      "title": "Innovation AI"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp15.webp",
+      "link": "https://www.rootecstak.com/",
+      "title": "Rootecstack"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp16.webp",
+      "link": "https://theclan.community/",
+      "title": "The Clan"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp17.webp",
+      "link": "https://www.chennai.design/",
+      "title": "Chennai Design Community"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp18.webp",
+      "link": "https://www.meetup.com/chennaigeeks/",
+      "title": "Chennai Geeks"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp19.webp",
+      "link": "https://community.cncf.io/kcd-chennai/",
+      "title": "KCD Chennai"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp20.webp",
+      "link": "https://jslovers.com/",
+      "title": "JS Lovers"
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp21.webp",
+      "link": "https://bit.ly/SUChennaiGuide",
+      "title": "SingularityU Chennai "
+    },
+    {
+      "image": "https://static.gdgchennai.in/partners/cp22.webp",
+      "link": "https://makerstribe.in/upcoming-events/",
+      "title": "Chennai Freelancers Club"
+    }
+  ],
+  "rooms": [
+    {
+      "roomId": "mainHall",
+      "roomName": "Main Hall"
+    },
+    {
+      "roomId": "amphiHall",
+      "roomName": "Amphitheatre"
+    },
+    {
+      "roomId": "ramanHall",
+      "roomName": "Raman Hall"
+    },
+    {
+      "roomId": "miniAudi",
+      "roomName": "Mini Auditorium"
+    }
+  ],
+  "agendas": [
+    {
+      "roomId": "mainHall",
+      "name": "Registration",
+      "session": "Let the show begin!",
+      "time": "8:00 AM - 9:30 AM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Intro and Keynote by GDG Chennai / Devrel",
+      "session": "Vanakkam to DevFest Chennai 2024!!",
+      "time": "9:30 AM - 10:15 AM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Navaneeth",
+      "session": "Gemma Models: Architecture, Application Development, and Fine-Tuning Techniques",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t1/navaneeth.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "10:30 AM - 11:30 AM"
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Aishwarya, Dhanush, Rohan",
+      "session": "Panel - AI and Open Source",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t1/p1/aishwarya.png",
+        "https://static.gdgchennai.in/speakers/t1/p1/dhanush.jpg",
+        "https://static.gdgchennai.in/speakers/t1/p1/rohan.jpg"
+      ],
+      "showImage": true,
+      "showMultipleImage": true,
+      "time": "11:30 AM - 12:30 PM"
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Lunch",
+      "session": "We still got rest of the day waiting!",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "12:PM PM - 1:30 PM"
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Priya",
+      "session": "Make your AI assistant 10x Smarter with Gemini Function calling",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t1/priya.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "1:30 PM - 2:30 PM"
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Rashmi, Bhaarath, Kanchan, Lawanya, Naseer, Somasundaram",
+      "session": "Panel - Design",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t1/p2/raashmi.png",
+        "https://static.gdgchennai.in/speakers/t1/p2/bhaarath.png",
+        "https://static.gdgchennai.in/speakers/t1/p2/kanchan.png",
+        "https://static.gdgchennai.in/speakers/t1/p2/lawanya.png",
+        "https://static.gdgchennai.in/speakers/t1/p2/naseer.png",
+        "https://static.gdgchennai.in/speakers/t1/p2/somasundaram.png"
+      ],
+      "showImage": true,
+      "showMultipleImage": true,
+      "time": "2:30 PM - 3:30 PM"
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Break",
+      "session": "Tea Coffee...tea coffee..tea coffee",
+      "time": "3:30 PM - 4:00 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Aishwarya",
+      "session": "Lightning Talk: Prompts to Pixels - Getting Started with GenAI films",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t1/aishwarya.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "4:00 PM - 4:30 PM"
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Sanjeev",
+      "session": "Lightning Talk: MicroSaaS as a revenue making side project",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t1/sanjeev.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "4:30 PM - 5:00 PM"
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Guru",
+      "session": "Lightning Talk: New age marketing ft linkedin, instagram and youtube",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t1/guru.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "5:00 PM - 5:30 PM"
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Closing Note",
+      "session": "Almost end of the show 😞",
+      "time": "5:30 PM - 6:15 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "mainHall",
+      "name": "Showdown",
+      "session": "The exciting part happens here 🌟",
+      "time": "6:15 PM - 6:30 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Registration",
+      "session": "Let the show begin!",
+      "time": "8:00 AM - 9:30 AM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Intro and Keynote by GDG Chennai / Devrel - Main Hall",
+      "session": "Vanakkam to DevFest Chennai 2024!!",
+      "time": "9:30 AM - 10:15 AM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Ashish",
+      "session": "Shipping Gen AI Products with Web by Leveraging Project FUGU",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t2/ashish.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "10:30 AM - 11:30 AM"
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Anubhav",
+      "session": "Goroutines as Cognitive Threads: Replicating Human Behavior in Go",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t2/anubhav.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "11:30 AM - 12:30 PM"
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Lunch",
+      "session": "We still got rest of the day waiting!",
+      "time": "12:PM PM - 1:30 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Raghav, Adarsh",
+      "session": "Multimodality across Indic Languages",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t2/raghav.webp",
+        "https://static.gdgchennai.in/speakers/t2/adarsh.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": true,
+      "time": "1:30 PM - 2:30 PM"
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Arumugaraja, Keerthivaasan",
+      "session": "App Aware Infra, Infra Aware App",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t2/arumugaraja.webp",
+        "https://static.gdgchennai.in/speakers/t2/keerthivaasan.webp"
+      ],
+      "showMultipleImage": true,
+      "showImage": true,
+      "time": "2:30 PM - 3:30 PM"
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Break",
+      "session": "Tea Coffee...tea coffee..tea coffee",
+      "time": "3:30 PM - 4:00 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Bhavani",
+      "session": "Lightning Talk: Non tech skills you need to master",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t2/bhavani.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "4:00 PM - 4:30 PM"
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Heflin",
+      "session": "Lightning Talk: Exploring Sentence-BERT: Efficient Solutions for Semantic Understanding",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t2/heflin.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "4:30 PM - 5:00 PM"
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Chandnika, Praveen",
+      "session": "Lightning Talk: Learn how you transform the Future of Education with Gemini and Responsible AI",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t2/chandnika.webp",
+        "https://static.gdgchennai.in/speakers/t2/praveen.webp"
+      ],
+      "showMultipleImage": true,
+      "showImage": true,
+      "time": "5:00 PM - 5:30 PM"
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Closing Note - Main Hall",
+      "session": "Almost end of the show 😞",
+      "time": "5:30 PM - 6:15 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "amphiHall",
+      "name": "Showdown - Main Hall",
+      "session": "The exciting part happens here 🌟",
+      "time": "6:15 PM - 6:30 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Registration",
+      "session": "Let the show begin!",
+      "time": "8:00 AM - 9:30 AM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Intro and Keynote by GDG Chennai / Devrel - Main Hall",
+      "session": "Vanakkam to DevFest Chennai 2024!!",
+      "time": "9:30 AM - 10:15 AM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Karthikeyan",
+      "session": "Project IDX-101: Revolutionizing AI-Powered Software Development for the Future",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t3/karthikeyan.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "10:30 AM - 11:30 AM"
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Somasundaram Mahesh",
+      "session": "Kotlin Multiplatform: Not as Scary as it Sounds (Live Proof!)",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t3/somasundaram.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "11:30 AM - 12:30 AM"
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Lunch",
+      "session": "We still got rest of the day waiting!",
+      "time": "12:PM PM - 1:30 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Subhrajyoti",
+      "session": "Compose Previews as a Power User",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t3/subrajyothi.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "1:30 PM - 2:30 PM"
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Manoj",
+      "session": "Google's Privacy Sandbox 101: What It Means for Developers",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t3/manoj.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "2:30 PM - 3:30 PM"
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Break",
+      "session": "Tea Coffee...tea coffee..tea coffee",
+      "time": "3:30 PM - 4:00 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Adi",
+      "session": "Lightning Talk: Building Products For Developer Experience - A First Principle Approach",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t3/adi.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "4:00 PM - 4:30 PM"
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Trishiraj",
+      "session": "A Developer story without a college degree",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t3/trishiraj.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "4:30 PM - 5:30 PM"
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Closing Note - Main Hall",
+      "session": "Almost end of the show 😞",
+      "time": "5:30 PM - 6:15 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "ramanHall",
+      "name": "Showdown - Main Hall",
+      "session": "The exciting part happens here 🌟",
+      "time": "6:15 PM - 6:30 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Registration",
+      "session": "Let the show begin!",
+      "time": "8:00 AM - 9:30 AM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Intro and Keynote by GDG Chennai / Devrel - Main Hall",
+      "session": "Vanakkam to DevFest Chennai 2024!!",
+      "time": "9:30 AM - 10:15 AM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Gnanasuriyan, Anush",
+      "session": "Rewind and Restore: Time-Traveling Through Transactions in SaaS",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t4/gnanasuriyan.webp",
+        "https://static.gdgchennai.in/speakers/t4/anush.webp"
+      ],
+      "showMultipleImage": true,
+      "showImage": true,
+      "time": "10:30 AM - 11:30 AM"
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Shibly, Shubham",
+      "session": "Secure Local Vault: A Git based Secret Manager",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t4/shibly.webp",
+        "https://static.gdgchennai.in/speakers/t4/shubham.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": true,
+      "time": "11:30 AM - 12:30 PM"
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Lunch",
+      "session": "We still got rest of the day waiting!",
+      "time": "12:PM PM - 1:30 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Krishna",
+      "session": "Real time computer vision for manufacturing quality",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t4/krishna.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "1:30 PM - 2:30 PM"
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Swathi",
+      "session": "Future with Technology - The not so seen perspective",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t4/swathi.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false,
+      "time": "2:30 PM - 3:30 PM"
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Break",
+      "session": "Tea Coffee...tea coffee..tea coffee",
+      "time": "3:30 PM - 4:00 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Veena, Kevin",
+      "session": "Lightning Talk: From Screen to Mind: How Business transforms User Experience into Portals of possibility",
+      "imageUrls": [
+        "https://static.gdgchennai.in/speakers/t4/veena.webp",
+        "https://static.gdgchennai.in/speakers/t4/kevin.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": true,
+      "time": "4:00 PM - 4:30 PM"
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Closing Note - Main Hall",
+      "session": "Almost end of the show 😞",
+      "time": "5:30 PM - 6:15 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    },
+    {
+      "roomId": "miniAudi",
+      "name": "Showdown - Main Hall",
+      "session": "The exciting part happens here 🌟",
+      "time": "6:15 PM - 6:30 PM",
+      "imageUrls": [
+        "https://static.gdgchennai.in/memories/m01.webp"
+      ],
+      "showImage": true,
+      "showMultipleImage": false
+    }
+  ]
+}
