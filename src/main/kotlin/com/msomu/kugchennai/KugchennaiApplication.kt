@@ -10,7 +10,7 @@ import org.springframework.context.support.beans
 class KugchennaiApplication
 
 class RootQuery : Query {
-	@GraphQLDescription("Get all sessions from ramanhall")
+	@GraphQLDescription("Get all sessions")
 	fun sessions() = jsonData.agendas
 }
 
